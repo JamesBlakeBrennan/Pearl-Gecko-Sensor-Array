@@ -5,7 +5,7 @@ The project includes:
 
 Driver for the Si7021 humidity sensor  
 Driver for the VEML603 ambient light sensor  
-I2C driver for the sensors written as an interupt driven state machine  
+I2C driver for the sensors written as an interrupt driven state machine  
 Driver for the HM-19 bluetooth module    
 UART driver for the bluetooth module  
 A circular buffer to hold strings waiting to be sent to the bluetooth module  
